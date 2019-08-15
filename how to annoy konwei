@@ -1,0 +1,5 @@
+answer = "no"
+while answer != "yes":
+    answer = input ("is konwei mean")
+if answer == "yes":
+    print ("you have passed")
